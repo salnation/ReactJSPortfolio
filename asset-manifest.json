@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/salnation/ReactJSPortfolio/static/css/main.bab0b925.chunk.css",
+    "main.js": "/salnation/ReactJSPortfolio/static/js/main.3a0d601f.chunk.js",
+    "main.js.map": "/salnation/ReactJSPortfolio/static/js/main.3a0d601f.chunk.js.map",
+    "runtime-main.js": "/salnation/ReactJSPortfolio/static/js/runtime-main.deabac86.js",
+    "runtime-main.js.map": "/salnation/ReactJSPortfolio/static/js/runtime-main.deabac86.js.map",
+    "static/js/2.6e3fe316.chunk.js": "/salnation/ReactJSPortfolio/static/js/2.6e3fe316.chunk.js",
+    "static/js/2.6e3fe316.chunk.js.map": "/salnation/ReactJSPortfolio/static/js/2.6e3fe316.chunk.js.map",
+    "index.html": "/salnation/ReactJSPortfolio/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/salnation/ReactJSPortfolio/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.6e3fe316.chunk.js.LICENSE.txt": "/salnation/ReactJSPortfolio/static/js/2.6e3fe316.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deabac86.js",
+    "static/js/2.6e3fe316.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.3a0d601f.chunk.js"
+  ]
+}
